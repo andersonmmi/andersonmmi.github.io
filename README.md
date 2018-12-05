@@ -1,2 +1,2 @@
-# component-library-andersonmmi
+# DaiPOS
 # andersonmmi.github.io

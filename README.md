@@ -1,2 +1,0 @@
-# DaiPOS
-# andersonmmi.github.io
